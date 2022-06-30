@@ -1,7 +1,6 @@
 import LastUs from "../assets/LastUs.jpg";
 import Bfield from "../assets/Bfield.jpg";
 import CyberpunkFirst from "../assets/CyberpunkFirst.jpg";
-import CyberpunkSecond from "../assets/CyberpunkSecond.jpg";
 import Gta from "../assets/Gta.jpg";
 import Rainbow from "../assets/Rainbow.jpg";
 import Valhalla from "../assets/Valhalla.jpg";
@@ -25,11 +24,6 @@ export default [
         title: "Cyberpunk 2077",
         description: "Действие игры происходит в 2077 году в Найт-Сити, вымышленном североамериканском городе из вселенной Cyberpunk",
         urls: CyberpunkFirst,
-    },
-    {
-        title: "Cyberpunk 2077",
-        description: "Действие игры происходит в 2077 году в Найт-Сити, вымышленном североамериканском городе из вселенной Cyberpunk",
-        urls: CyberpunkSecond,
     },
     {
         title: "Grand Theft Auto V",
