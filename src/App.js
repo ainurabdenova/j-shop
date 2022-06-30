@@ -1,12 +1,13 @@
 import Slider from "./components/Slider";
-import { products } from "./components/Product";
+// import { products } from "./components/Product";
+import DayAndNight from "./components/DayAndNight";
 
 function App() {
 
-  console.log(products);
   return (
     <>
       <Slider />;
+      {/* <DayAndNight /> */}
 
     </>
   )
